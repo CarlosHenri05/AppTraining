@@ -274,6 +274,7 @@ public class AppPlayer implements ActionListener {
     }
 
     // Código com erro ou incompleto
+     // To-do: Mostrar a fila de forma certa num pop-up ou possivelmente no app normal.
     public void showQueue() {
         if (musicQueue.isEmpty()) {
             songName.setText("Fila vazia.");

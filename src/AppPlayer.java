@@ -226,6 +226,7 @@ public class AppPlayer implements ActionListener {
     }
 
     // Adicionar músicas a fila
+    // Código com erro ou incompleto
     public void addToQueue() {
         fileChooser = new JFileChooser();
         fileChooser.setCurrentDirectory(new File("C:\\Users\\Downloads"));
@@ -260,6 +261,7 @@ public class AppPlayer implements ActionListener {
         }
     }
 
+    // Código com erro ou incompleto
     public void playNextSong() {
         if (!musicQueue.isEmpty()) {
             myFile = musicQueue.poll();
@@ -271,6 +273,7 @@ public class AppPlayer implements ActionListener {
         }
     }
 
+    // Código com erro ou incompleto
     public void showQueue() {
         if (musicQueue.isEmpty()) {
             songName.setText("Fila vazia.");

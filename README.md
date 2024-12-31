@@ -15,4 +15,4 @@ Futuras adições:
 3. Pular e voltar para músicas anteriormente tocadas
 
    
-[Código fonte retirado desse site aqui](https://data-flair.training/blogs/java-music-player/)
+[Código inspirado no código fonte desse site aqui](https://data-flair.training/blogs/java-music-player/)

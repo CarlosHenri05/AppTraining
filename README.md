@@ -9,3 +9,7 @@ Conhecimentos utilizados:
 2. Biblioteca Swing
 3. Queues (Ainda não 100% implementadas)
 
+Futuras adições:
+1. Métodos de playlist
+2. Métodos para fila de músicas
+3. Pular e voltar para músicas anteriormente tocadas

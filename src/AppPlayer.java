@@ -169,7 +169,7 @@ public class AppPlayer implements ActionListener {
         }
     };
 
-    // Metodo de dar play
+    // Thread de dar play
     Runnable runnablePlay = new Runnable() {
         @Override
         public void run() {
